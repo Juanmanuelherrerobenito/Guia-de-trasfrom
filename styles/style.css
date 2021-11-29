@@ -1,0 +1,15 @@
+div.paso1{
+transform:rotate(180deg);
+background-color: grey;
+color: red;
+}
+img{
+width: 500px;
+}
+div.paso2{
+	transform:translate(20px,10px);
+
+}
+div.paso3{
+	transform:scale(1.1,0.5);
+}
